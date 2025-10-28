@@ -37,7 +37,7 @@ export default function Dashboard() {
                 <SelectItem value="12months">Last 12 months</SelectItem>
               </SelectContent>
             </Select>
-            <a href="https://dashbaord-landing.vercel.app/" className="w-full sm:w-auto">
+            <a href="https://neat-pane-view.vercel.app/" className="w-full sm:w-auto">
               <Button variant="outline" size="sm" className="w-full sm:w-auto bg-transparent">← Back</Button>
             </a>
             <Button variant="outline" size="sm" className="w-full sm:w-auto bg-transparent">
